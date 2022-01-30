@@ -2,6 +2,10 @@
 
 This is a project that helps a robot to walk on Mars.
 
+# Technologies
+.Net 6.0
+Console Application
+
 ## Installation
 
 Get from github.
